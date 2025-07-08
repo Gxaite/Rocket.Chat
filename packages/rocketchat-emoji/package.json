@@ -1,0 +1,13 @@
+{
+  "name": "rocketchat-emoji",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "emoji-toolkit": "^9.0.1"
+  },
+  "devDependencies": {
+    "jest": "^30.0.4"
+  }
+}
